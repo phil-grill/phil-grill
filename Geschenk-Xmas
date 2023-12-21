@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weihnachts-App</title>
+</head>
+<body>
+    <div style="text-align: center;">
+        <p>
+            🎅 Frohe Weihnachten! 🎄<br>
+            Hiermit erhältst du einen Gutschein<br>
+            zum einmal Döner essen auf mein Nacken 🎁
+        </p>
+    </div>
+</body>
+</html>
